@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "temperature-in-the-home",
+  "private_key_id": "fcc9bfe7294949f15e826362c884872f68320c07",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQChT5Uw/GelRUTF\nCIyKmZ2HPz0cGgWL8yLPTa8pi1FDFpiOn37VsglVK/XVpVjheWwDodwPhTBwvyLD\nMPP+wcDIyGAYPRcJOV8np5I+GVMQ0vJGjGHGV6elBGV7ljeuR1e9jroAZ29dOH8S\n+E3Nd9ylbWTLeMhZZv+tfBOliqV88fPHLwDasMIFEOOk6iLwjgyjAC3BmFNdLR9D\ntfBRnI2W2sMIYNAAwRE1aLPA9yYU2Buf6tWFrz2ZJtcpfGUSAX/bApFwcuPs533d\nFpVKRLtjK3ZlOLV5xpW7ic9G3POcE+nU+cfIWHj5Bvx0Qr1ajIPQaj2LlCU5a2gn\n/HyYP4BhAgMBAAECggEABqRavcYe1GjKQJyuAMT7fgamEwKlSNJtlACcXkcMxQjo\npjK+C7mFddrWCAKDauFPh8TB5We0C2hrW4MoAMzkjb/maQkW6jvRBbZ6KJFtYKt2\n6127ZunUDtDkBtc0Grp4S+dVFFAt/zYk0VilB3lQfgVHmbMy+K9rhq6ttmrDjqXt\nBCr6I5NmtqEf21g9y27qmfouifYCyJ5bmLale8l2JbCvFPxi5qlK06bii1RCxQMn\nWQaggGUvpY6d1z9Yca6sl7n7MTeitEfdx0W8jIYndkfjUiLxGdw9/QQ3ATU2nVXw\n8/UB6qNn5lRTD9Gq2WgTO4tOMLdrbnFt8M0uZadhOQKBgQDWMGHt5tJNb8SkYBfp\nppKr3HsbQtasd4E9vRd58iarPTp92/bvrWX7u6o1iLeSEHQHJmHxNeXxklEaxkcT\n4I9sT9p5wqm+o8cdrnSn54ZdBWKQKJEBZmYgy+bv9h3bt4qYiewBpp/Xct4BMXIR\nsVIDN1tStXc7GFCnUuP7g1lL7QKBgQDAzLvfuBk+7sX2ppKmOk8MQjM/WptxznZ/\nYO78eXWbFxeuvrPJ7q7aYN5luT0+nEf3DHymvZPh8RXUHgg8ptU793DdFE5xI+Jf\nyh51NhbVeos50BoLLs7xwdfmuPAP0wct6tCAY+h87ik6nm92exUopPXlwkZz17Cz\n0EsY4qP/xQKBgFZ162IUVfpKTs+ntp9rzTMw6kTj4zJ1fydD6HEibbecHLtnirPP\nhCZs59V6XdfJanzkYo7zGeI9FR5AwbplYJ/xUBjsmobJJ/x0SsTocdWk8deNeJNf\nGYTNqmhdKkpiOcE/k5RLBaT7ymAi7I/1y0xfES8+72VceFpC3KLPr8E1AoGARgoa\nNiurADG9uNzKaZjFHq7t7xX7Ylyer6eHKjD1iGHbOKAOsE0FOE/4evvQQ+6CNj1T\nCz/TeUEbrPM8CsyQqjg5yBaYaIGguyux5OLBaMwbx+TRkT5v72N8C1Uj4JvI/+VN\n2VZyHvBmCeWEmIYeKaXDrrPk5DB3ANuqbF/pNAECgYBu4pV7cCHMq/vdVWW/HmAE\nHjwHwMvCy6tk+Lbn47tmEmOG2L9tW2nnFH1RAPRoKBj15z4DMkeG9Zt1/eDypO7u\nEW1BQgdA2N7tplvfzesGbVm/p2In6mJbs9rhh6tD3tcxdu9LmbltOTLr+46ONg0g\nNBus6E+0PrFob9xDl6ldiA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "monitoring-temperature@temperature-in-the-home.iam.gserviceaccount.com",
+  "client_id": "117735866076127027640",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/monitoring-temperature%40temperature-in-the-home.iam.gserviceaccount.com"
+}
